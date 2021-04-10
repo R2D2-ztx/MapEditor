@@ -1,6 +1,7 @@
 # Map Editor
 
-Map Editor is a challenge by [Academia de Código](https://www.academiadecodigo.org/>) bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and save the drawing using I/0 streams.
+Map Editor is a challenge by [Academia de Código](https://www.academiadecodigo.org/>) <br>
+bootcamp. The goal is to be able to draw on a Simple Graphics Library canvas and save the drawing using I/0 streams.
 
 ## Technologies
   - Java
@@ -15,10 +16,4 @@ Map Editor is a challenge by [Academia de Código](https://www.academiadecodigo.
 - L to load drawing
 
 
-s
-
-License
 ----
-
-
-**Keep coding!**
